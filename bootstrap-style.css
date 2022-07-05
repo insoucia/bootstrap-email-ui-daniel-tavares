@@ -1,4 +1,65 @@
-h1 {
-    color:aqua;
+.my-container {
+    border: 10px solid pink;
 }
 
+.my-row {
+    background-color: blueviolet;
+}
+
+.my-col {
+    background-color: green;
+    height: 100vh;
+}
+
+.column2 {
+    background-color: brown;
+    height: 100vh;
+}
+
+.column3 {
+    background-color: #f8984f;
+    height: 100vh;
+}
+
+.search-box {
+    padding: 5px;
+
+}
+
+.inbox-btn-main {
+    margin: 10px;
+}
+
+.inbox-buttons {
+    padding: 5px;
+}
+
+.email-box {
+    color: #CCE3DE;
+    background-color: #2d1888;
+}
+
+.email-container {
+    height: 90%;
+}
+
+.BEEGemail-container {
+    height: 90%;
+    width: 95%;
+    border: 10px solid salmon;
+}
+
+.drop-button {
+    background-color: blue;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.reply-buttons {
+    width: 80%;
+}
+
+.drop-button:hover,
+.drop-button:focus {}
