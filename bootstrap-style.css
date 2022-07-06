@@ -1,65 +1,49 @@
-.my-container {
-    border: 10px solid pink;
-}
-
-.my-row {
-    background-color: blueviolet;
-}
-
-.my-col {
-    background-color: green;
-    height: 100vh;
-}
-
 .column2 {
-    background-color: brown;
     height: 100vh;
 }
 
 .column3 {
-    background-color: #f8984f;
     height: 100vh;
 }
 
-.search-box {
-    padding: 5px;
-
-}
-
-.inbox-btn-main {
-    margin: 10px;
-}
-
-.inbox-buttons {
-    padding: 5px;
-}
-
-.email-box {
-    color: #CCE3DE;
-    background-color: #2d1888;
-}
-
 .email-container {
-    height: 90%;
+    height: 95%;
 }
 
-.BEEGemail-container {
+.BIGemail-container {
     height: 90%;
     width: 95%;
-    border: 10px solid salmon;
-}
-
-.drop-button {
-    background-color: blue;
-    color: aliceblue;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
 }
 
 .reply-buttons {
-    width: 80%;
+    margin: 20px;
 }
 
-.drop-button:hover,
-.drop-button:focus {}
+.card-img-center {
+    height: 50vh;
+}.column2 {
+    height: 100vh;
+}
+
+.column3 {
+    height: 100vh;
+}
+
+
+.email-container {
+    height: 95%;
+}
+
+
+.BIGemail-container {
+    height: 90%;
+    width: 95%;
+}
+
+.reply-buttons {
+    margin: 20px;
+}
+
+.card-img-center {
+    height: 50vh;
+}
