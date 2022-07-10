@@ -47,3 +47,8 @@
 .card-img-center {
     height: 50vh;
 }
+
+#search-width{
+    min-width: 0;
+    max-width: 100px;
+}
